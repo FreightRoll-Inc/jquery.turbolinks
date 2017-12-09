@@ -1,0 +1,23 @@
+{
+  "name": "jquery.turbolinks",
+  "version": "1.0.0",
+  "homepage": "https://github.com/FreightRoll-Inc/jquery.turbolinks",
+  "authors": [
+    "Sasha Koss <kossnocorp@gmail.com>",
+    "Rico Sta. Cruz <hi@ricostacruz.com>"
+  ],
+  "description": "jQuery plugin for drop-in fix binded events problem caused by Turbolinks",
+  "main": "turbolinks-jquery.js",
+  "keywords": [
+    "jquery",
+    "turbolinks"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
